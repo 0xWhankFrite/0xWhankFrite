@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0xWhankFrite
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on cool stuff/things
+- 👋 Hi, I’m @0xWhankFrite (Frank White)
+- 👀 I’m interested in defi
+- 🌱 I’m currently learning a lot
 - 📫 How to reach me @WhankFrite on X @UpOnlyFW on TG
 
 <!---
